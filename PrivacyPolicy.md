@@ -1,4 +1,4 @@
-#Privacy Policy
+# Privacy Policy
 
 Mostafa Hesham built the Shjr app as a Free app. This SERVICE is provided by Mostafa Hesham at no cost and is intended for use as is.
 
